@@ -1,0 +1,19 @@
+{
+  "name": "clock-oop",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "sinon": "^7.5.0",
+    "sinon-chai": "^3.3.0"
+  }
+}
